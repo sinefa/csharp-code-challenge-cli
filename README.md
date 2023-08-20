@@ -40,7 +40,7 @@ $
 * Correct error handling.
 * Appropriate unit tests.
 * Your solution must build and run cleanly by executing `dotnet run` from a clean clone of your repository. 
-    * Depending on your project structure it is ok to require a `cd` into a sub directory.
+    * Depending on your project structure it is ok to require a `cd` into a sub directory or by specifiying `--project <Project>` to the `dotnet run` command.
 * Your solution tests must build and run by executing `dotnet test` from a clean clone of your repository.
     * Depending on your project structure it is ok to require a `cd` into a sub directory but it should not be necessary for the tests.
 
